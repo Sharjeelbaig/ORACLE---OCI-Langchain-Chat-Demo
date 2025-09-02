@@ -1,8 +1,9 @@
 ![oracle logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1024px-Oracle_logo.svg.png)
 
+# Oracle Cloud Infrastructure Generative AI Chat Demonstration
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 # ChatOCIGenAI Class
-[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 it is imported from `langchain_oci.chat_models`, as `ChatOCIGenAI`
 This class will then be instantiated with the following parameters inside it's constructor:
